@@ -39,6 +39,7 @@
 <img width="46px" alt="react" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/react.svg">&nbsp;
 <img width="40px" alt="ruby" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/ruby.svg">&nbsp;
 <img width="40px" alt="rails" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/rails.svg">&nbsp;
+<img width="40px" alt="typescript" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/typescript.svg">&nbsp;
 
 
 ## Tools 💻
