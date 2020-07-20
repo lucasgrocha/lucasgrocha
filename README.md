@@ -11,11 +11,11 @@
 
 ## About Me👨‍🎓
 
-🔭 I'm aspiring Front-End Web Developer. <br />
+- 🔭 I'm aspiring Front-End Web Developer. <br />
 ⚙ I'm Currently learning ReactJS library, Node.js & Typescript/ES6+. <br />
-🤖 I always like working in 🐧Linux environment for programming & Windows for gaming  (everyone needs a break 👀). <br />
-📚 I'm a knowledge seeker & I love to learn new technologies. <br />
-⚡️ I'm 20 yo, am always studying to improve my skills and practicing solving challenges, I like to make toy projects and deploying them when It's possible.
+- 🤖 I always like working in 🐧Linux environment for programming & Windows for gaming  (everyone needs a break 👀). <br />
+- 📚 I'm a knowledge seeker & I love to learn new technologies. <br />
+- ⚡️ I'm 20 yo, am always studying to improve my skills and practicing solving challenges, I like to make toy projects and deploying them when It's possible.
 </br>
 
 ### <p align="center">Keep Learning 🤟 </p>
