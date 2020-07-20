@@ -12,9 +12,11 @@
 ## &nbsp; &nbsp; &nbsp; About Me👨‍🎓
 
 🔭 I'm aspiring Front-End Web Developer. <br />
-⚙ Currently learning ReactJS library, Node.js & typescript. <br />
+⚙ I'm Currently learning ReactJS library, Node.js & Typescript/ES6+. <br />
 🤖 I always like working in 🐧Linux environment for programming & Windows for gaming  (everyone needs a break 👀). <br />
 📚 I'm a knowledge seeker & I love to learn new technologies. <br />
+
+</br>
 
 ### <p align="center">Keep Learning 🤟 </p>
 
@@ -24,9 +26,6 @@
 <!-- - 💬 Ask me about ... -->
   <!-- - 😄 Pronouns: ... -->
   <!-- - ⚡️ Fun fact: ... -->
-
- </br>
- </br>
 
 ---
 
