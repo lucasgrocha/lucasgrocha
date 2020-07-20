@@ -35,13 +35,13 @@
 
 <img width="36px" alt="html" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/html5.svg">&nbsp;
 <img width="36px" alt="css" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/css3.svg">&nbsp;
-<img width="36px" alt="javascript" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/javascript.svg">&nbsp;
+<img width="40px" alt="nodejs" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/nodejs.svg">&nbsp;
 <img width="46px" alt="react" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/react.svg">&nbsp;
-<img width="40px" alt="c++" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/c-plus.svg">&nbsp;
+<img width="40px" alt="ruby" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/ruby.svg">&nbsp;
+<img width="40px" alt="rails" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/rails.svg">&nbsp;
+
 
 ## Tools 💻
-
-<img width="36px" alt="vim" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/vim.svg">&nbsp;
 <img width="36px" alt="vscode" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/visual-studio-code.svg">&nbsp;
 <img width="40px" alt="github" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/github.svg">&nbsp;
 <img width="36px" alt="linux" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/linux.svg">&nbsp;
