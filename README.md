@@ -15,7 +15,7 @@
 - I always like working in 🐧Linux environment for programming & Windows for gaming  (everyone needs a break).
 - I'm a knowledge seeker & I love to learn new Technologies.
 
-### <p align="center">Keep Learning 😊 </p>
+### <p align="center">Keep Learning 🤟 </p>
 
 <!-- - 🌱 I’m currently learning ReactJs -->
 <!-- - 👯 I’m looking to collaborate on ... -->
