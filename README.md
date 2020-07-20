@@ -11,9 +11,10 @@
 
 ## &nbsp; &nbsp; &nbsp; About Me👨‍🎓
 
-- I'm aspiring 🔭 Front-End Web Developer currently learning ReactJs library.
-- I always like working in 🐧Linux environment for programming & Windows for gaming  (everyone needs a break).
-- I'm a knowledge seeker & I love to learn new Technologies.
+🔭 I'm aspiring Front-End Web Developer. <br />
+⚙ Currently learning ReactJS library, Node.js & typescript. <br />
+🤖 I always like working in 🐧Linux environment for programming & Windows for gaming  (everyone needs a break 👀). <br />
+📚 I'm a knowledge seeker & I love to learn new technologies. <br />
 
 ### <p align="center">Keep Learning 🤟 </p>
 
