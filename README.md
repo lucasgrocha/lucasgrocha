@@ -46,7 +46,7 @@
 <img width="40px" alt="github" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/github.svg">&nbsp;
 <img width="36px" alt="linux" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/linux.svg">&nbsp;
 
-## You can Reach me out ☎️
+## You can reach me out ☎️
 
 <a href="https://www.linkedin.com/in/lucas-g-rocha" display="inline">
         <img width="30px" alt="LinkedIn" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/linkedin.svg">&nbsp;
