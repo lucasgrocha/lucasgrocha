@@ -60,4 +60,4 @@
 </br>
 
 <!-- [![Total Visitors](http://hits.dwyl.com/lucasgrocha/lucasgrocha.svg)](http://hits.dwyl.com/lucasgrocha/lucasgrocha) -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasgrocha" alt="lucasgrocha" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasgrocha" alt="lucasgrocha" /> </p> -->
