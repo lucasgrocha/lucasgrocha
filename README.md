@@ -1,5 +1,5 @@
 
-# <h1 align="center">️ Hello!! 👋 I'm Lucas Rocha 🎯🚀</h1>
+# <h1 align="center">️ Hey there!! 👋 I'm Lucas Rocha 🎯🚀</h1>
 
 ---
 
