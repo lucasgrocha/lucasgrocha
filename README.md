@@ -48,7 +48,7 @@
 
 ## You can Reach me out ☎️
 
-<a href="https://www.linkedin.com/in/lucasgrocha">
+<a href="https://www.linkedin.com/in/lucas-g-rocha">
         <img width="30px" alt="LinkedIn" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/linkedin.svg">&nbsp;
 </a>
 
