@@ -9,7 +9,7 @@
 
 </br>
 
-## &nbsp; &nbsp; &nbsp; About Me👨‍🎓
+## About Me👨‍🎓
 
 🔭 I'm aspiring Front-End Web Developer. <br />
 ⚙ I'm Currently learning ReactJS library, Node.js & Typescript/ES6+. <br />
