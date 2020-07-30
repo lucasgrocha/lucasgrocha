@@ -11,14 +11,14 @@
 
 ## About Me👨‍🎓
 
-- 🔭 I'm aspiring Front-End Web Developer. <br />
-⚙ I'm Currently learning ReactJS library, Node.js & Typescript/ES6+. <br />
+- 🔭 I'm Front-End Web Developer. <br />
+- ⚙ I'm currently working with ReactJS, NodeJS and Typescript. <br />
 - 🤖 I always like working in 🐧Linux environment for programming & Windows for gaming  (everyone needs a break 👀). <br />
 - 📚 I'm a knowledge seeker & I love to learn new technologies. <br />
-- ⚡️ I'm 20 yo, am always studying to improve my skills and practicing by solving challenges, making toy projects & deploy them when It's possible.
+- ⚡️ I'm 20 yo, and I'm always studying to improve my skills and practicing by solving challenges, making toy projects & deploying them when possible.
 </br>
 
-### <p align="center">Keep Learning 🤟 </p>
+### <p align="center">Keep Coding 🤟 </p>
 
 <!-- - 🌱 I’m currently learning ReactJs -->
 <!-- - 👯 I’m looking to collaborate on ... -->
@@ -47,7 +47,7 @@
 <img width="40px" alt="github" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/github.svg">&nbsp;
 <img width="36px" alt="linux" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/linux.svg">&nbsp;
 
-## You can reach me out ☎️
+## You can reach me at ☎️
 
 <a href="https://www.linkedin.com/in/lucas-g-rocha" display="inline">
         <img width="30px" alt="LinkedIn" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/linkedin.svg">&nbsp;
