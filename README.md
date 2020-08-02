@@ -31,7 +31,7 @@
 
 ## Tech Stack 👨‍💻
 
- <img  align="right" src="https://github-readme-stats.vercel.app/api?username=lucasgrocha&show_icons=true&theme=dracula">
+ <img  align="right" src="https://github-readme-stats.vercel.app/api?username=lucasgrocha&show_icons=true&theme=dracula&count_private=true">
 
 <img width="36px" alt="html" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/html5.svg">&nbsp;
 <img width="36px" alt="css" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/css3.svg">&nbsp;
