@@ -59,6 +59,9 @@
 
 </br>
 </br>
+<hr />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgrocha&layout=compact)](https://github.com/lucasgrocha/lucasgrocha)
 
 <!-- [![Total Visitors](http://hits.dwyl.com/lucasgrocha/lucasgrocha.svg)](http://hits.dwyl.com/lucasgrocha/lucasgrocha) -->
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasgrocha" alt="lucasgrocha" /> </p> -->
