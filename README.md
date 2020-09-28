@@ -11,7 +11,7 @@
 
 ## About Me👨‍🎓
 
-- 🔭 I'm Front-End Web Developer. <br />
+- 🔭 I'm Web Developer. <br />
 - ⚙ I'm currently working with ReactJS, NodeJS and Typescript. <br />
 - 🤖 I always like working in 🐧Linux environment for programming & Windows for gaming  (everyone needs a break 👀). <br />
 - 📚 I'm a knowledge seeker & I love to learn new technologies. <br />
