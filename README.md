@@ -53,10 +53,6 @@
         <img width="30px" alt="LinkedIn" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/linkedin.svg">&nbsp;
 </a>
 
-<a href="https://wa.me/55019999053169" display="inline">
-        <img width="30px" alt="Whatsapp" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/whatsapp.svg">&nbsp;
-</a>
-
 </br>
 </br>
 <hr />
