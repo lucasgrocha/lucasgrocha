@@ -12,8 +12,8 @@
 ## About Me👨‍🎓
 
 - 🔭 I'm Web Developer. <br />
-- ⚙ I'm currently working with ReactJS, NodeJS and Typescript. <br />
-- 🤖 I always like working in 🐧Linux environment for programming & Windows for gaming  (everyone needs a break 👀). <br />
+- ⚙ I'm currently working with Ruby On Rails <br />
+- 🤖 I like to work on GNU/Linux environment.🐧<br />
 - 📚 I'm a knowledge seeker & I love to learn new technologies. <br />
 - ⚡️ I'm 20 yo, and I'm always studying to improve my skills and practicing by solving challenges, making toy projects & deploying them when possible.
 </br>
