@@ -1,8 +1,6 @@
 
 # <h1 align="center">️ Hey there!! 👋 I'm Lucas 🎯🚀</h1>
 
----
-
 </br>
 
 <img align="right" alt="GIF" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
@@ -11,11 +9,11 @@
 
 ## About Me👨‍🎓
 
-- 🔭 I'm a Software Developer. <br />
+- 🔭 I'm a Software Engineer. <br />
 - ⚙ I'm currently working with Ruby On Rails. <br />
-- 🤖 I like to work on GNU/Linux environment.🐧<br />
-- 📚 I'm a knowledge seeker & I love to learn new technologies. <br />
-- ⚡️ I'm 22 yo, and I'm always studying to improve my skills and practicing by solving challenges, making toy projects & deploying them when possible.
+- 🤖 I LOVE to work on GNU/Linux environment.🐧<br />
+- 📚 I'm a knowledge seeker & I love to learn new technologies and programming stuff. <br />
+- ⚡️ I'm 22 yo, and I'm always studying to improve my skills and practicing by solving challenges.
 </br>
 
 ### <p align="center">Keep Coding 🤟 </p>
@@ -31,14 +29,14 @@
 
 ## Tech Stack 👨‍💻
 
- <img  align="right" src="https://github-readme-stats.vercel.app/api?username=lucasgrocha&show_icons=true&theme=dracula&count_private=true">
+<img  align="right" src="https://github-readme-stats.vercel.app/api?username=lucasgrocha&show_icons=true&theme=dracula&count_private=true">
 
+<img width="40px" alt="ruby" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/ruby.svg">&nbsp;
+<img width="40px" alt="rails" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/rails.svg">&nbsp;
+<img width="46px" alt="react" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/react.svg">&nbsp;
 <img width="36px" alt="html" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/html5.svg">&nbsp;
 <img width="36px" alt="css" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/css3.svg">&nbsp;
 <img width="40px" alt="nodejs" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/nodejs.svg">&nbsp;
-<img width="46px" alt="react" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/react.svg">&nbsp;
-<img width="40px" alt="ruby" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/ruby.svg">&nbsp;
-<img width="40px" alt="rails" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/rails.svg">&nbsp;
 <img width="40px" alt="typescript" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/typescript.svg">&nbsp;
 
 
