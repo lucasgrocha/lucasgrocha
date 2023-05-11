@@ -13,7 +13,7 @@
 - ⚙ I'm currently working with Ruby On Rails. <br />
 - 🤖 I LOVE to work on GNU/Linux environment.🐧<br />
 - 📚 I'm a knowledge seeker & I love to learn new technologies and programming stuff. <br />
-- ⚡️ I'm 22 yo, and I'm always studying to improve my skills and practicing by solving challenges.
+- ⚡️ I'm 23 yo, and I'm always studying to improve my skills and practicing by solving challenges.
 </br>
 
 ### <p align="center">Keep Coding 🤟 </p>
