@@ -1,57 +1,34 @@
+<h1 align="center">Hi 👋, I'm Lucas Rocha</h1>
+<h3 align="center">Software Engineer</h3>
 
-# <h1 align="center">️ Hey there!! 👋 I'm Lucas 🎯🚀</h1>
+- 📝 I regularly write articles on [https://lucasgrocha.com/](https://lucasgrocha.com/)
 
-</br>
+- 💬 Ask me about **Ruby, Rails, React, Javascript, dev workflow**
 
-<img align="right" alt="GIF" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+- 📫 How to reach me **lucasgrocha.dev@gmail.com**
 
-</br>
+- ⚡ Fun fact **I love to ride motorcycle**
 
-## About Me👨‍🎓
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 🔭 I'm a Software Engineer. <br />
-- ⚙ I'm currently working with Ruby On Rails. <br />
-- 🤖 I LOVE to work on GNU/Linux environment.🐧<br />
-- 📚 I'm a knowledge seeker & I love to learn new technologies and programming stuff. <br />
-- ⚡️ I'm 23 yo, and I'm always studying to improve my skills and practicing by solving challenges.
-</br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/lucasgrocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lucasgrocha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucas-g-rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-g-rocha" height="30" width="40" /></a>
+<a href="/https://lucasgrocha.com/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://lucasgrocha.com/index.xml" height="30" width="40" /></a>
+</p>
 
-### <p align="center">Keep Coding 🤟 </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
-<!-- - 🌱 I’m currently learning ReactJs -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-  <!-- - 😄 Pronouns: ... -->
-  <!-- - ⚡️ Fun fact: ... -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgrocha&show_icons=true&locale=en&layout=compact" alt="lucasgrocha" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgrocha&show_icons=true&locale=en" alt="lucasgrocha" /></p>
 
-## Tech Stack 👨‍💻
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgrocha&" alt="lucasgrocha" /></p>
 
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=lucasgrocha&show_icons=true&theme=dracula&count_private=true">
-
-<img width="40px" alt="ruby" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/ruby.svg">&nbsp;
-<img width="40px" alt="rails" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/rails.svg">&nbsp;
-<img width="46px" alt="react" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/react.svg">&nbsp;
-<img width="36px" alt="html" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/html5.svg">&nbsp;
-<img width="36px" alt="css" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/css3.svg">&nbsp;
-<img width="40px" alt="nodejs" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/nodejs.svg">&nbsp;
-<img width="40px" alt="typescript" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/typescript.svg">&nbsp;
-
-
-## Tools 💻
-<img width="36px" alt="vscode" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/visual-studio-code.svg">&nbsp;
-<img width="40px" alt="github" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/github.svg">&nbsp;
-<img width="36px" alt="linux" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/linux.svg">&nbsp;
-
-## You can reach me at ☎️
-
-<a href="https://www.linkedin.com/in/lucas-g-rocha" display="inline">
-        <img width="30px" alt="LinkedIn" src="https://github.com/lucasgrocha/lucasgrocha/blob/master/assets/linkedin.svg">&nbsp;
-</a>
-
-<hr>
 
 ![Snake animation](https://github.com/lucasgrocha/lucasgrocha/blob/output/github-contribution-grid-snake.svg)
 
