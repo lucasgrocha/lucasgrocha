@@ -13,6 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Better Code QA - Benefit of Unit Testing](https://lucasgrocha.com/posts/better-code-qa-benefit-of-unit-testing/)
+- [The Problem of Linting](https://lucasgrocha.com/posts/the-problem-of-linting/)
+- [About me](https://lucasgrocha.com/about/about/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
