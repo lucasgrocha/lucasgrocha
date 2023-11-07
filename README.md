@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas Rocha</h1>
 <h3 align="center">Software Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasgrocha&label=Profile%20views&color=0e75b6&style=flat" alt="lucasgrocha" /> </p>
+
 - 📝 I regularly write articles on [https://lucasgrocha.com/](https://lucasgrocha.com/)
 
 - 💬 Ask me about **Ruby, Rails, React, Javascript, dev workflow**
