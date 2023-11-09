@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Thats Why I Love Interactive Rebase](https://lucasgrocha.com/posts/thats-why-i-love-interactive-rebase/)
+- [That&#39;s Why I Love Interactive Rebase](https://lucasgrocha.com/posts/thats-why-i-love-interactive-rebase/)
 - [Better Code QA - Benefit of Unit Testing](https://lucasgrocha.com/posts/better-code-qa-benefit-of-unit-testing/)
 - [The Problem of Linting](https://lucasgrocha.com/posts/the-problem-of-linting/)
 <!-- BLOG-POST-LIST:END -->
